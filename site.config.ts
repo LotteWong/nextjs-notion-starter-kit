@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '8d6aa543f96f4487b57d529430c029d6',
+  rootNotionPageId: 'b3190d506cca48d29e6730e2cf1f5d16',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'The Day After the Revolution',
-  domain: 'https://www.notion.so/8d6aa543f96f4487b57d529430c029d6',
+  domain: 'https://www.notion.so/b3190d506cca48d29e6730e2cf1f5d16',
   author: 'LotteWong',
 
   // open graph metadata (optional)
