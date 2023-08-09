@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Lottewong's Blog',
+  name: 'The Day After the Revolution',
   domain: 'https://www.notion.so/8d6aa543f96f4487b57d529430c029d6',
   author: 'LotteWong',
 
